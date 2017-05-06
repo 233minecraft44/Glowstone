@@ -30,8 +30,8 @@ import java.util.stream.Collectors;
 
 public final class Explosion {
 
-    public static final int POWER_TNT = 4;
-    public static final int POWER_BED = 5;
+    public static final int POWER_TNT = 3;
+    public static final int POWER_BED = 3.5;
     public static final int POWER_CREEPER = 3;
     public static final int POWER_CHARGED_CREEPER = 6;
     public static final int POWER_GHAST = 1;
